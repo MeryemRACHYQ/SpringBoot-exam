@@ -27,3 +27,20 @@ une référence claire et conviviale pour comprendre et explorer les fonctionnal
 # put 
 ![WhatsApp Image 2023-11-15 at 5 42 54 PM](https://github.com/MeryemRACHYQ/SpringBoot-exam/assets/147452254/679291fc-487d-4be6-ab16-c07735af4011)
 # documentation swagger
+La documentation Swagger de l'API est accessible à l'adresse http://localhost:8088/swagger-ui.html.
+Cette interface fournit une description détaillée des endpoints de votre application, y compris des informations sur les paramètres,
+les types de données, et les réponses attendues.
+
+En utilisant l'interface Swagger, vous avez la possibilité de tester directement les endpoints de votre API.
+Cette fonctionnalité interactive vous permet d'envoyer des requêtes HTTP simulées et d'observer les réponses en temps réel. 
+Cela simplifie grandement le processus de compréhension et de validation des fonctionnalités de votre API sans avoir à utiliser des outils externes.
+
+La documentation Swagger offre également des fonctionnalités telles que des exemples de requêtes et de réponses, 
+des détails sur les codes d'état HTTP, et la possibilité d'exporter la documentation au format JSON ou YAML.
+
+# Configuration
+Les paramètres de configuration de la base de données sont spécifiés dans le fichier src/main/resources/application.properties.
+Les entités et les repositories sont définis dans les packages com.votre.package.model et com.votre.package.repository,
+tandis que les contrôleurs chargés de la gestion des requêtes HTTP sont situés dans le package com.votre.package.controller.
+Les services métier sont, quant à eux, regroupés dans le package com.votre.package.service.
+
