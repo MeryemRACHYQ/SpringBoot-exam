@@ -24,9 +24,8 @@ une référence claire et conviviale pour comprendre et explorer les fonctionnal
  # delete
 ![delete categorie](https://github.com/MeryemRACHYQ/SpringBoot-exam/assets/147452254/d1ce2781-b6d7-44e7-b657-ecc435e7ff07)
 
-# put 
-![Uploading image.png…]()
-
+# put
+![WhatsApp Image 2023-11-15 at 5 42 54 PM](https://github.com/MeryemRACHYQ/SpringBoot-exam/assets/147452254/4b6c9235-1a1a-48ec-b5f8-7b3b6b6c3658)
 # documentation swagger
 La documentation Swagger de l'API est accessible à l'adresse http://localhost:8088/swagger-ui.html.
 Cette interface fournit une description détaillée des endpoints de votre application, y compris des informations sur les paramètres,
